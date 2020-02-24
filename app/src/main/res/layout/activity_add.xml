@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/inName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:hint="Navn på vare"/>
+
+    <RadioGroup
+        android:id="@+id/radioGrp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioHar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Har" />
+
+        <RadioButton
+            android:id="@+id/radioLite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Har lite" />
+
+        <RadioButton
+            android:id="@+id/radioTom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tom" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Legg til" />
+
+    
+</LinearLayout>

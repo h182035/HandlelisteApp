@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96633976516",
+    "firebase_url": "https://handleliste-c4172.firebaseio.com",
+    "project_id": "handleliste-c4172",
+    "storage_bucket": "handleliste-c4172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96633976516:android:00093a470411959c90bb91",
+        "android_client_info": {
+          "package_name": "com.example.handleliste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96633976516-vsqc170daacbd37ob3ca4qrqhm5r3fth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rNaMNWYA7vZM5TP9IXmuCBbQ-5ZLn_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96633976516-vsqc170daacbd37ob3ca4qrqhm5r3fth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
